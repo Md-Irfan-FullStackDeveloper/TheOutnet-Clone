@@ -37,6 +37,6 @@
   
   
   # Deployed Link :-
-    https://beamish-bunny-aa80d6.netlify.app/cart.html
+    https://beamish-bunny-aa80d6.netlify.app
     
   
